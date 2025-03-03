@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">📚 Currently studying Software Engineering at PUCPR</p>
+<p align="left">📚 Currently studying Software Engineering</p>
 
 ###
 
