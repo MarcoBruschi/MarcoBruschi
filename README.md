@@ -28,13 +28,15 @@
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">Langs</h2>
 
 ###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img src="https://www.svgrepo.com/show/373756/light-gamemaker2.svg" height="40" alt="GML logo"  />
+  <img src="https://www.svgrepo.com/show/452228/html-5.svg" height="40" alt="HTML5 logo"/>
+  <img src="https://www.svgrepo.com/show/452185/css-3.svg" height="40" alt="CSS3 logo"/>
+  <img src="https://www.svgrepo.com/show/373756/light-gamemaker2.svg" height="40" alt="GML logo"/>
 </div>
 
 ###
