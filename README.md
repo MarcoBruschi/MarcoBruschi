@@ -1,9 +1,5 @@
 ###
 
-<img height = "200" src = "https://capsule-render.vercel.app/api?type=slice&height=100&color=4F4557&textBg=false&section=header&descAlign=50" />
-
-###
-
 <h1 align="center">Hi 👋! <br>My name is Marco</h1>
 
 ###
@@ -47,11 +43,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo"  />
   <img src="https://www.svgrepo.com/show/373756/light-gamemaker2.svg" height="50" alt="GML logo"/>
 </div>
-
-###
-
-<img height = "200" src = "https://capsule-render.vercel.app/api?type=slice&height=100&color=4F4557&section=footer" />
-
-###
 
 ###
