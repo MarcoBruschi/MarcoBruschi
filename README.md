@@ -41,7 +41,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo"  />
+  <img width="12" />
   <img src="https://www.svgrepo.com/show/373756/light-gamemaker2.svg" height="50" alt="GML logo"/>
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" height="50" alt="C# logo"/>
+  <img width="12" />
 </div>
 
 ###
