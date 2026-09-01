@@ -78,19 +78,21 @@
   <table border="0">
     <tr>
       <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcoBruschi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5D4&icon_color=F72585&text_color=E2E8F0" alt="GitHub Stats" />
+        <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=MarcoBruschi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5D4&icon_color=F72585&text_color=E2E8F0" alt="GitHub Stats" />
       </td>
       <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoBruschi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5D4&text_color=E2E8F0" alt="Top Languages" />
+        <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MarcoBruschi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5D4&text_color=E2E8F0" alt="Top Languages" />
       </td>
     </tr>
   </table>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarcoBruschi&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5D4&fire=F72585&currStreakLabel=00F5D4" alt="GitHub Streak" />
+  <!-- Streak Stats (100% Estável) -->
+  <img src="https://streak-stats.demolab.com?user=MarcoBruschi&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5D4&fire=F72585&currStreakLabel=00F5D4" alt="GitHub Streak" />
   
   <br/><br/>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MarcoBruschi&theme=tokyo-night&bg_color=0D1117&color=00F5D4&line=7B2CBF&point=F72585&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+  <!-- Profile Details & Activity Summary (Ativo e Online) -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MarcoBruschi&theme=tokyonight" width="100%" alt="Profile Summary Details" />
 </div>
 
 ---
